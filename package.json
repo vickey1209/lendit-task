@@ -1,0 +1,21 @@
+{
+  "name": "lendit",
+  "version": "1.0.0",
+  "description": "lendit task",
+  "main": "level 2",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "lenditt",
+    "task"
+  ],
+  "author": "vickey",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.7.5",
+    "path": "^0.12.7",
+    "res": "^0.4.0"
+  }
+}
